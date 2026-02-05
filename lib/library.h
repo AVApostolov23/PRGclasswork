@@ -11,11 +11,12 @@ struct Book {
 
 struct Library {
     string name;
-    Book* books;    // Pointer to an array of books
-    int count;      // Number of books currently in the array
+    Book* books;    
+    int count;      
+          
 };
 
-// --- Function Declarations ---
+
 
 Book createBook(const string& title, const string& author, int year, double price);
 void printBook(const Book& book);

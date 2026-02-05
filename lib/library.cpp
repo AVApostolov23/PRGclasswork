@@ -21,7 +21,7 @@ void printLibrary(const Library& library) {
         return;
     }
 
-    // Iterate using the count
+   
     for (int i = 0; i < library.count; ++i) {
         printBook(library.books[i]);
     }
@@ -40,7 +40,7 @@ double averageBookPrice(const Library& library) {
 Book oldestBookInLibrary(const Library& library) {
     if (library.count == 0) return { "", "", 0, 0.0 };
 
-    // Use a pointer to track the current oldest
+  
     Book* oldest = &library.books[0];
 
     for (int i = 1; i < library.count; ++i) {
