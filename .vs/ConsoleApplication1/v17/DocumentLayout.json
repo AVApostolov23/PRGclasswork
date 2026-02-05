@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AVApostolov23\\source\\repos\\PRGclasswork\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB214D4B-EF97-42C9-BB91-6AB2E053BF97}|lib\\lib.vcxproj|C:\\Users\\AVApostolov23\\source\\repos\\PRGclasswork\\lib\\library.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CB214D4B-EF97-42C9-BB91-6AB2E053BF97}|lib\\lib.vcxproj|solutionrelative:lib\\library.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB214D4B-EF97-42C9-BB91-6AB2E053BF97}|lib\\lib.vcxproj|C:\\Users\\AVApostolov23\\source\\repos\\PRGclasswork\\lib\\library.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CB214D4B-EF97-42C9-BB91-6AB2E053BF97}|lib\\lib.vcxproj|solutionrelative:lib\\library.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8454835D-C9B6-4DC6-83F9-118D9981E88A}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\AVApostolov23\\source\\repos\\PRGclasswork\\ConsoleApplication1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8454835D-C9B6-4DC6-83F9-118D9981E88A}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "library.h",
+              "DocumentMoniker": "C:\\Users\\AVApostolov23\\source\\repos\\PRGclasswork\\lib\\library.h",
+              "RelativeDocumentMoniker": "lib\\library.h",
+              "ToolTip": "C:\\Users\\AVApostolov23\\source\\repos\\PRGclasswork\\lib\\library.h",
+              "RelativeToolTip": "lib\\library.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-05T12:31:46.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "library.cpp",
+              "DocumentMoniker": "C:\\Users\\AVApostolov23\\source\\repos\\PRGclasswork\\lib\\library.cpp",
+              "RelativeDocumentMoniker": "lib\\library.cpp",
+              "ToolTip": "C:\\Users\\AVApostolov23\\source\\repos\\PRGclasswork\\lib\\library.cpp",
+              "RelativeToolTip": "lib\\library.cpp",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-05T12:30:11.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\AVApostolov23\\source\\repos\\PRGclasswork\\ConsoleApplication1\\main.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\main.cpp",
+              "ToolTip": "C:\\Users\\AVApostolov23\\source\\repos\\PRGclasswork\\ConsoleApplication1\\main.cpp",
+              "RelativeToolTip": "ConsoleApplication1\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-05T12:30:05.558Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
